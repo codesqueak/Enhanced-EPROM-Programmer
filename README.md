@@ -14,3 +14,6 @@ The card is a completely new implementation of the design with a number of impro
 *	Single power switch,  EPROM selection via standard 12 PIN DIL socket mounted switch
 *	LED power indicator
 *	Power test points
+* Adjustable 24/24V feed for 2708's
+
+![PCB From JLCPCB](pcb.png)
