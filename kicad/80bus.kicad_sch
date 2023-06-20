@@ -6,8 +6,8 @@
 
   (title_block
     (title "EPROM Burner 2708 / 2716")
-    (date "2023-05-21")
-    (rev "2.1")
+    (date "2023-06-21")
+    (rev "2.3")
   )
 
   (lib_symbols
@@ -1443,7 +1443,7 @@
     (property "Reference" "R2" (at 175.26 89.535 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "680" (at 175.26 92.075 0)
+    (property "Value" "1K" (at 175.26 92.075 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (at 170.942 90.17 90)
