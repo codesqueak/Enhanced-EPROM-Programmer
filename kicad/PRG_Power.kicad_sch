@@ -6,8 +6,8 @@
 
   (title_block
     (title "EPROM Burner 2708 / 2716")
-    (date "2023-08-14")
-    (rev "2.5")
+    (date "2023-09-01")
+    (rev "2.6")
   )
 
   (lib_symbols
@@ -873,10 +873,10 @@
   (symbol (lib_id "Device:R") (at 180.34 92.71 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0f5abb5d-7969-46de-91b1-bca2e4167db5)
-    (property "Reference" "R13" (at 182.88 91.4399 0)
+    (property "Reference" "R13" (at 182.88 91.44 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "820" (at 182.88 93.9799 0)
+    (property "Value" "820K" (at 182.88 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (at 178.562 92.71 90)
