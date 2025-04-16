@@ -1,4 +1,4 @@
-# Enhanced EPROM-Programmer Version 2.5
+# Enhanced EPROM-Programmer Version 2.7
 
 2708 / 2716 Enhanced EPROM Programmer
 
